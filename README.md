@@ -224,4 +224,4 @@ Forge of Empires is offered as a full free version with all features and updates
 Start your journey to greatness today! Download Forge of Empires for free and build the empire of your dreams.
 
 ---
-**Last updated:** 2026-10-01 20:00:36 UTC
+**Last updated:** 2026-10-02 00:22:47 UTC
